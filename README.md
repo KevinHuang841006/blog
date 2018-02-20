@@ -1,8 +1,8 @@
-##   
+## ______________________________________________________________________  
 
 
 
-## As a beginner of the Github~
+# As a beginner of the Github~
 
 You can use the [editor on GitHub](https://github.com/KevinHuang841006/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
