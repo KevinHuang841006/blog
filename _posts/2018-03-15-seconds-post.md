@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2018/3/15 machine learning
+title: machine learning
 ---
 
-阿阿阿阿阿
+NOT A BIG DEAL
