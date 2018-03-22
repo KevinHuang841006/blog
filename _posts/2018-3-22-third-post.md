@@ -28,6 +28,7 @@ with open('test.txt') as f // 開檔後會自動關閉
 
 # class  //一定要加 self
 
+'''
 class classs(object):
   """
   document~~
@@ -41,7 +42,7 @@ class classs(object):
     
   def _private(self,x):
     return x
-  
+'''  
   
 
 
