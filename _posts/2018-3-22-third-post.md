@@ -15,10 +15,12 @@ d['a']=1
 
 # Global //function要用外部變數時要先用global
 
+```
 a=1
 def d():
   global a
   a=2 
+```  
   
 # is
 和a==b相同 
@@ -46,8 +48,9 @@ class classs(object):
   
 
 
-
-
+# 繪圖軟體
+1. mat power lib ex: 畫loss rate
+2. Pathlib
 
 
 
