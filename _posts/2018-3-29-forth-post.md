@@ -1,6 +1,12 @@
 ---
 layout: post
-title: 3_29 機器學習介紹
+title: 4_16 語言學蓋論
 ---
 
-    今天要教CNN呢~~~~
+
+Fundamental differnce hypothesis 
+ 1. L2ers construct grammers
+ 2. rule - goverment
+ 
+ Intermediate langage -> Second language : 第1種語言
+ 
